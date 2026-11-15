@@ -1,0 +1,48 @@
+===== ONLINE EXAMINATION SYSTEM =====
+Total Questions: 5
+Marks per Question: 2
+Enter 's' to skip a question.
+
+Question 1 : Which language is used for Python programming?
+a. HTML
+b. Python
+c. CSS
+d. JavaScript
+Enter your answer (a/b/c/d/s): b
+
+Question 2 : Which keyword is used to define a function in Python?
+a. function
+b. define
+c. def
+d. fun
+Enter your answer (a/b/c/d/s): c
+
+Question 3 : Which data type stores multiple values in Python?
+a. Integer
+b. List
+c. Float
+d. String
+Enter your answer (a/b/c/d/s): b
+
+Question 4 : Which symbol is used for comments in Python?
+a. //
+b. #
+c. /*
+d. %
+Enter your answer (a/b/c/d/s): b
+
+Question 5 : Which function is used to display output?
+a. input()
+b. print()
+c. output()
+d. show()
+Enter your answer (a/b/c/d/s): b
+
+========== EXAM RESULT ==========
+Correct: 5
+Wrong: 0
+Skipped: 0
+Score: 10 / 10
+Percentage: 100.00%
+Result: PASS
+=================================
